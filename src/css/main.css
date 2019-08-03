@@ -20775,6 +20775,7 @@ section {
 
 .footer {
   width: 100%;
+  min-width: 938px;
   background-color: #3f3b48;
   color: #ffffff;
   height: 90px;
